@@ -18,7 +18,7 @@ Ele foi desenvolvido como parte do meu aprendizado de lógica de programação e
 
 2. **Execute o script** no terminal:
     ```bash
-    python TesteTabuada02.py
+    python multiplication-table-exercise.py
     ```
 
 ## Exemplo de Execução
